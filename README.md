@@ -1,7 +1,7 @@
 
 # Digital inheritance related domain sites (safetech ownership)
 
-  [https://digitalinheritance.company](https://digitalinheritance.company)
+  [digitalinheritance.company](https://digitalinheritance.company)
   
   [https://digitalinheritance.eu](https://digitalinheritance.eu)
   

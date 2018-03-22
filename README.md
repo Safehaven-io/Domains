@@ -2,6 +2,7 @@
 # Digital inheritance related domain sites (safetech ownership)
 
   [digitalinheritance.company](https://digitalinheritance.company) 
+  
   [digitalinheritance.eu](https://digitalinheritance.eu)
   
   [digitalinheritance.io](https://digitalinheritance.io)
@@ -16,6 +17,6 @@
   
   [inheritance.technology](https://inheritance.technology)
   
-  ...
+  
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Banner.png)](https://safehaven.io/)

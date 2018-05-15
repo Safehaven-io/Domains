@@ -8,7 +8,7 @@
   
   [digitalinheritance.tech](http://digitalinheritance.tech)
   
-  [digitalinheritance.app](digitalinheritance.app)
+  [digitalinheritance.app](http://digitalinheritance.app)
   
   [inheritance.digital](http://inheritance.digital)
 
